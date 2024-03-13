@@ -1,0 +1,218 @@
+/home/ostrich/anaconda3/envs/my_master/lib/python3.9/site-packages/torch/utils/checkpoint.py:460: UserWarning: torch.utils.checkpoint: please pass in use_reentrant=True or use_reentrant=False explicitly. The default value of use_reentrant will be updated to be False in the future. To maintain current behavior, pass use_reentrant=True. It is recommended that you use use_reentrant=False. Refer to docs for more details on the differences between the two variants.
+  warnings.warn(
+/home/ostrich/anaconda3/envs/my_master/lib/python3.9/site-packages/bitsandbytes/autograd/_functions.py:322: UserWarning: MatMul8bitLt: inputs will be cast from torch.float32 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+/home/ostrich/anaconda3/envs/my_master/lib/python3.9/site-packages/bitsandbytes/autograd/_functions.py:322: UserWarning: MatMul8bitLt: inputs will be cast from torch.bfloat16 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+/home/ostrich/anaconda3/envs/my_master/lib/python3.9/site-packages/torch/utils/checkpoint.py:460: UserWarning: torch.utils.checkpoint: please pass in use_reentrant=True or use_reentrant=False explicitly. The default value of use_reentrant will be updated to be False in the future. To maintain current behavior, pass use_reentrant=True. It is recommended that you use use_reentrant=False. Refer to docs for more details on the differences between the two variants.
+  warnings.warn(
+/home/ostrich/anaconda3/envs/my_master/lib/python3.9/site-packages/bitsandbytes/autograd/_functions.py:322: UserWarning: MatMul8bitLt: inputs will be cast from torch.float32 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+/home/ostrich/anaconda3/envs/my_master/lib/python3.9/site-packages/bitsandbytes/autograd/_functions.py:322: UserWarning: MatMul8bitLt: inputs will be cast from torch.bfloat16 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+/home/ostrich/anaconda3/envs/my_master/lib/python3.9/site-packages/torch/utils/checkpoint.py:460: UserWarning: torch.utils.checkpoint: please pass in use_reentrant=True or use_reentrant=False explicitly. The default value of use_reentrant will be updated to be False in the future. To maintain current behavior, pass use_reentrant=True. It is recommended that you use use_reentrant=False. Refer to docs for more details on the differences between the two variants.
+  warnings.warn(
+/home/ostrich/anaconda3/envs/my_master/lib/python3.9/site-packages/bitsandbytes/autograd/_functions.py:322: UserWarning: MatMul8bitLt: inputs will be cast from torch.float32 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+/home/ostrich/anaconda3/envs/my_master/lib/python3.9/site-packages/bitsandbytes/autograd/_functions.py:322: UserWarning: MatMul8bitLt: inputs will be cast from torch.bfloat16 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+/home/ostrich/anaconda3/envs/my_master/lib/python3.9/site-packages/torch/utils/checkpoint.py:460: UserWarning: torch.utils.checkpoint: please pass in use_reentrant=True or use_reentrant=False explicitly. The default value of use_reentrant will be updated to be False in the future. To maintain current behavior, pass use_reentrant=True. It is recommended that you use use_reentrant=False. Refer to docs for more details on the differences between the two variants.
+  warnings.warn(
+/home/ostrich/anaconda3/envs/my_master/lib/python3.9/site-packages/bitsandbytes/autograd/_functions.py:322: UserWarning: MatMul8bitLt: inputs will be cast from torch.float32 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+/home/ostrich/anaconda3/envs/my_master/lib/python3.9/site-packages/bitsandbytes/autograd/_functions.py:322: UserWarning: MatMul8bitLt: inputs will be cast from torch.bfloat16 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+/home/ostrich/anaconda3/envs/my_master/lib/python3.9/site-packages/torch/utils/checkpoint.py:460: UserWarning: torch.utils.checkpoint: please pass in use_reentrant=True or use_reentrant=False explicitly. The default value of use_reentrant will be updated to be False in the future. To maintain current behavior, pass use_reentrant=True. It is recommended that you use use_reentrant=False. Refer to docs for more details on the differences between the two variants.
+  warnings.warn(
+/home/ostrich/anaconda3/envs/my_master/lib/python3.9/site-packages/bitsandbytes/autograd/_functions.py:322: UserWarning: MatMul8bitLt: inputs will be cast from torch.float32 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+/home/ostrich/anaconda3/envs/my_master/lib/python3.9/site-packages/bitsandbytes/autograd/_functions.py:322: UserWarning: MatMul8bitLt: inputs will be cast from torch.bfloat16 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+/home/ostrich/anaconda3/envs/my_master/lib/python3.9/site-packages/torch/utils/checkpoint.py:460: UserWarning: torch.utils.checkpoint: please pass in use_reentrant=True or use_reentrant=False explicitly. The default value of use_reentrant will be updated to be False in the future. To maintain current behavior, pass use_reentrant=True. It is recommended that you use use_reentrant=False. Refer to docs for more details on the differences between the two variants.
+  warnings.warn(
+/home/ostrich/anaconda3/envs/my_master/lib/python3.9/site-packages/bitsandbytes/autograd/_functions.py:322: UserWarning: MatMul8bitLt: inputs will be cast from torch.float32 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+/home/ostrich/anaconda3/envs/my_master/lib/python3.9/site-packages/bitsandbytes/autograd/_functions.py:322: UserWarning: MatMul8bitLt: inputs will be cast from torch.bfloat16 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+Checkpoint destination directory ./models/phi2-sft-aplaca-nopack/checkpoint-300 already exists and is non-empty. Saving will proceed but saved results may be invalid.
+/home/ostrich/anaconda3/envs/my_master/lib/python3.9/site-packages/torch/utils/checkpoint.py:460: UserWarning: torch.utils.checkpoint: please pass in use_reentrant=True or use_reentrant=False explicitly. The default value of use_reentrant will be updated to be False in the future. To maintain current behavior, pass use_reentrant=True. It is recommended that you use use_reentrant=False. Refer to docs for more details on the differences between the two variants.
+  warnings.warn(
+/home/ostrich/anaconda3/envs/my_master/lib/python3.9/site-packages/bitsandbytes/autograd/_functions.py:322: UserWarning: MatMul8bitLt: inputs will be cast from torch.float32 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+/home/ostrich/anaconda3/envs/my_master/lib/python3.9/site-packages/bitsandbytes/autograd/_functions.py:322: UserWarning: MatMul8bitLt: inputs will be cast from torch.bfloat16 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+Checkpoint destination directory ./models/phi2-sft-aplaca-nopack/checkpoint-350 already exists and is non-empty. Saving will proceed but saved results may be invalid.
+/home/ostrich/anaconda3/envs/my_master/lib/python3.9/site-packages/torch/utils/checkpoint.py:460: UserWarning: torch.utils.checkpoint: please pass in use_reentrant=True or use_reentrant=False explicitly. The default value of use_reentrant will be updated to be False in the future. To maintain current behavior, pass use_reentrant=True. It is recommended that you use use_reentrant=False. Refer to docs for more details on the differences between the two variants.
+  warnings.warn(
+/home/ostrich/anaconda3/envs/my_master/lib/python3.9/site-packages/bitsandbytes/autograd/_functions.py:322: UserWarning: MatMul8bitLt: inputs will be cast from torch.float32 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+/home/ostrich/anaconda3/envs/my_master/lib/python3.9/site-packages/bitsandbytes/autograd/_functions.py:322: UserWarning: MatMul8bitLt: inputs will be cast from torch.bfloat16 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+Checkpoint destination directory ./models/phi2-sft-aplaca-nopack/checkpoint-400 already exists and is non-empty. Saving will proceed but saved results may be invalid.
+/home/ostrich/anaconda3/envs/my_master/lib/python3.9/site-packages/torch/utils/checkpoint.py:460: UserWarning: torch.utils.checkpoint: please pass in use_reentrant=True or use_reentrant=False explicitly. The default value of use_reentrant will be updated to be False in the future. To maintain current behavior, pass use_reentrant=True. It is recommended that you use use_reentrant=False. Refer to docs for more details on the differences between the two variants.
+  warnings.warn(
+/home/ostrich/anaconda3/envs/my_master/lib/python3.9/site-packages/bitsandbytes/autograd/_functions.py:322: UserWarning: MatMul8bitLt: inputs will be cast from torch.float32 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+/home/ostrich/anaconda3/envs/my_master/lib/python3.9/site-packages/bitsandbytes/autograd/_functions.py:322: UserWarning: MatMul8bitLt: inputs will be cast from torch.bfloat16 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+Checkpoint destination directory ./models/phi2-sft-aplaca-nopack/checkpoint-450 already exists and is non-empty. Saving will proceed but saved results may be invalid.
+/home/ostrich/anaconda3/envs/my_master/lib/python3.9/site-packages/torch/utils/checkpoint.py:460: UserWarning: torch.utils.checkpoint: please pass in use_reentrant=True or use_reentrant=False explicitly. The default value of use_reentrant will be updated to be False in the future. To maintain current behavior, pass use_reentrant=True. It is recommended that you use use_reentrant=False. Refer to docs for more details on the differences between the two variants.
+  warnings.warn(
+/home/ostrich/anaconda3/envs/my_master/lib/python3.9/site-packages/bitsandbytes/autograd/_functions.py:322: UserWarning: MatMul8bitLt: inputs will be cast from torch.float32 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+/home/ostrich/anaconda3/envs/my_master/lib/python3.9/site-packages/bitsandbytes/autograd/_functions.py:322: UserWarning: MatMul8bitLt: inputs will be cast from torch.bfloat16 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+Checkpoint destination directory ./models/phi2-sft-aplaca-nopack/checkpoint-500 already exists and is non-empty. Saving will proceed but saved results may be invalid.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+No chat template is defined for this tokenizer - using a default chat template that implements the ChatML format (without BOS/EOS tokens!). If the default is not appropriate for your model, please set `tokenizer.chat_template` to an appropriate template. See https://huggingface.co/docs/transformers/main/chat_templating for more information.
+**PROMPT**:
+A rectangular garden has a length of 25 feet and a width of 15 feet. If you want to build a fence around the entire garden, how many feet of fencing will you need?
+**GENERATED ANS**:
+<|im_start|>system
+You are Phi a chat assistant, follow user instructions and reply to them adherently. Provide reason for your response.<|im_end|>
+<|im_start|>user
+A rectangular garden has a length of 25 feet and a width of 15 feet. If you want to build a fence around the entire garden, how many feet of fencing will you need?<|im_end|>
+<|im_start|>assistant
+You will need 80 feet of fencing to enclose the garden.<|im_end|>
+==============================
+**PROMPT**:
+It's Bengay for muscle relief, a combination of methyl salicylate, menthol, and what other active ingredient commonly found in aspirin?
+**GENERATED ANS**:
+<|im_start|>system
+You are Phi a chat assistant, follow user instructions and reply to them adherently. Provide reason for your response.<|im_end|>
+<|im_start|>user
+It's Bengay for muscle relief, a combination of methyl salicylate, menthol, and what other active ingredient commonly found in aspirin?<|im_end|>
+<|im_start|>assistant
+The other active ingredient commonly found in aspirin is salicylic acid.<|im_end|>
+==============================
+**PROMPT**:
+How can i get rid of llamas in my backyard?
+**GENERATED ANS**:
+<|im_start|>system
+You are Phi a chat assistant, follow user instructions and reply to them adherently. Provide reason for your response.<|im_end|>
+<|im_start|>user
+How can i get rid of llamas in my backyard?<|im_end|>
+<|im_start|>assistant
+Llamas are wild animals and are not suitable pets for backyards. It is best to contact your local animal control or wildlife management agency and report sightings of llamas in your backyard. They may be able to safely and humanely relocate the llamas to their natural habitat.<|im_end|>
+==============================
+**PROMPT**:
+A rectangular garden has a length of 25 feet and a width of 15 feet. If you want to build a fence around the entire garden, how many feet of fencing will you need?
+**GENERATED ANS**:
+<|im_start|>system
+You are Phi a chat assistant, follow user instructions and reply to them adherently. Provide reason for your response.<|im_end|>
+<|im_start|>user
+A rectangular garden has a length of 25 feet and a width of 15 feet. If you want to build a fence around the entire garden, how many feet of fencing will you need?<|im_end|>
+<|im_start|>assistant
+You will need 100 feet of fencing to build a fence around the entire garden.<|im_end|>
+==============================
+**PROMPT**:
+It's Bengay for muscle relief, a combination of methyl salicylate, menthol, and what other active ingredient commonly found in aspirin?
+**GENERATED ANS**:
+<|im_start|>system
+You are Phi a chat assistant, follow user instructions and reply to them adherently. Provide reason for your response.<|im_end|>
+<|im_start|>user
+It's Bengay for muscle relief, a combination of methyl salicylate, menthol, and what other active ingredient commonly found in aspirin?<|im_end|>
+<|im_start|>assistant
+Bengay for muscle relief contains methyl salicylate, menthol, and aspirin, which is an active ingredient commonly found in aspirin. Aspirin is a nonsteroidal anti-inflammatory drug (NSAID) which is used to relieve muscle and joint pain, inflammation, and fever. Methyl salicylate is a natural oil found in plants, and menthol is a compound found in mint plants which is commonly used in cosmetics and aromatherapy. Both ingredients work together to provide muscle relief and reduce pain.<|im_end|>
+==============================
+**PROMPT**:
+How can i get rid of llamas in my backyard?
+**GENERATED ANS**:
+<|im_start|>system
+You are Phi a chat assistant, follow user instructions and reply to them adherently. Provide reason for your response.<|im_end|>
+<|im_start|>user
+How can i get rid of llamas in my backyard?<|im_end|>
+<|im_start|>assistant
+You can't get rid of llamas in your backyard because they are wild animals and are protected by law. Attempting to capture or remove them without permission is illegal and could result in fines or other punishments. The best course of action is to contact your local animal control office or wildlife conservation organization for advice on how to safely and humanely deal with llamas in your backyard.<|im_end|>
+==============================
+**PROMPT**:
+A rectangular garden has a length of 25 feet and a width of 15 feet. If you want to build a fence around the entire garden, how many feet of fencing will you need?
+**GENERATED ANS**:
+<|im_start|>system
+You are Phi a chat assistant, follow user instructions and reply to them adherently. Provide reason for your response.<|im_end|>
+<|im_start|>user
+A rectangular garden has a length of 25 feet and a width of 15 feet. If you want to build a fence around the entire garden, how many feet of fencing will you need?<|im_end|>
+<|im_start|>assistant
+To build a fence around a rectangular garden, you will need 70 feet of fencing. To find this answer, we use the formula for the perimeter of a rectangle: P = 2l + 2w. So, P = 2(25) + 2(15) = 70. Therefore, you need 70 feet of fencing to enclose the garden.<|im_end|>
+==============================
+/home/ostrich/anaconda3/envs/my_master/lib/python3.9/site-packages/transformers/pipelines/base.py:1157: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+**PROMPT**:
+It's Bengay for muscle relief, a combination of methyl salicylate, menthol, and what other active ingredient commonly found in aspirin?
+**GENERATED ANS**:
+<|im_start|>system
+You are Phi a chat assistant, follow user instructions and reply to them adherently. Provide reason for your response.<|im_end|>
+<|im_start|>user
+It's Bengay for muscle relief, a combination of methyl salicylate, menthol, and what other active ingredient commonly found in aspirin?<|im_end|>
+<|im_start|>assistant
+The other active ingredient commonly found in aspirin is acetylsalicylic acid.<|im_end|>
+==============================
+**PROMPT**:
+How can i get rid of llamas in my backyard?
+**GENERATED ANS**:
+<|im_start|>system
+You are Phi a chat assistant, follow user instructions and reply to them adherently. Provide reason for your response.<|im_end|>
+<|im_start|>user
+How can i get rid of llamas in my backyard?<|im_end|>
+<|im_start|>assistant
+There are several methods you can use to get rid of llamas in your backyard, including using humane traps and relocating them to a new area. You can also try to use deterrents such as noise-making devices or unpleasant smells to discourage them from entering your property. If these methods fail, you may need to contact a professional wildlife removal service to help get rid of the llamas.<|im_end|>
+==============================
+**PROMPT**:
+A rectangular garden has a length of 25 feet and a width of 15 feet. If you want to build a fence around the entire garden, how many feet of fencing will you need?
+**GENERATED ANS**:
+<|im_start|>system
+You are Phi a chat assistant, follow user instructions and reply to them adherently. Provide reason for your response.<|im_end|>
+<|im_start|>user
+A rectangular garden has a length of 25 feet and a width of 15 feet. If you want to build a fence around the entire garden, how many feet of fencing will you need?<|im_end|>
+<|im_start|>assistant
+You will need a total of 110 feet of fencing to surround the entire garden.<|im_end|>
+==============================
+**PROMPT**:
+It's Bengay for muscle relief, a combination of methyl salicylate, menthol, and what other active ingredient commonly found in aspirin?
+**GENERATED ANS**:
+<|im_start|>system
+You are Phi a chat assistant, follow user instructions and reply to them adherently. Provide reason for your response.<|im_end|>
+<|im_start|>user
+It's Bengay for muscle relief, a combination of methyl salicylate, menthol, and what other active ingredient commonly found in aspirin?<|im_end|>
+<|im_start|>assistant
+Methyl salicylate is the other active ingredient commonly found in aspirin. It is a natural chemical found in plants such as aspirin, which is a pain-relieving and anti-inflammatory medication. It has similar properties to aspirin, but it is less likely to cause stomach problems.<|im_end|>
+==============================
+**PROMPT**:
+How can i get rid of llamas in my backyard?
+**GENERATED ANS**:
+<|im_start|>system
+You are Phi a chat assistant, follow user instructions and reply to them adherently. Provide reason for your response.<|im_end|>
+<|im_start|>user
+How can i get rid of llamas in my backyard?<|im_end|>
+<|im_start|>assistant
+LLamas can be a nuisance in your backyard as they can be destructive and difficult to manage. The best way to get rid of them is to contact a wildlife control specialist who can assess the situation and provide you with an appropriate solution.<|im_end|>
+==============================
+**PROMPT**:
+A rectangular garden has a length of 25 feet and a width of 15 feet. If you want to build a fence around the entire garden, how many feet of fencing will you need?
+**GENERATED ANS**:
+<|im_start|>system
+You are Phi a chat assistant, follow user instructions and reply to them adherently. Provide reason for your response.<|im_end|>
+<|im_start|>user
+A rectangular garden has a length of 25 feet and a width of 15 feet. If you want to build a fence around the entire garden, how many feet of fencing will you need?<|im_end|>
+<|im_start|>assistant
+The length of the garden is 25 feet and the width is 15 feet. Therefore, the perimeter of the garden is 2*25 + 2*15 = 70 feet. Therefore, you will need 70 feet of fencing to enclose the entire garden.<|im_end|>
+==============================
+**PROMPT**:
+It's Bengay for muscle relief, a combination of methyl salicylate, menthol, and what other active ingredient commonly found in aspirin?
+**GENERATED ANS**:
+<|im_start|>system
+You are Phi a chat assistant, follow user instructions and reply to them adherently. Provide reason for your response.<|im_end|>
+<|im_start|>user
+It's Bengay for muscle relief, a combination of methyl salicylate, menthol, and what other active ingredient commonly found in aspirin?<|im_end|>
+<|im_start|>assistant
+The other active ingredient commonly found in aspirin is acetylsalicylic acid.<|im_end|>
+==============================
+**PROMPT**:
+How can i get rid of llamas in my backyard?
+**GENERATED ANS**:
+<|im_start|>system
+You are Phi a chat assistant, follow user instructions and reply to them adherently. Provide reason for your response.<|im_end|>
+<|im_start|>user
+How can i get rid of llamas in my backyard?<|im_end|>
+<|im_start|>assistant
+You can hire a professional to remove the llamas, or use an approved animal repellent to deter them from entering your backyard. It is important to use humane methods to ensure the safety and wellbeing of the llamas.<|im_end|>

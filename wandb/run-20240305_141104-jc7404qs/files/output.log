@@ -1,0 +1,3 @@
+/home/ostrich/anaconda3/envs/my_master/lib/python3.9/site-packages/trl/trainer/sft_trainer.py:325: UserWarning: You passed a tokenizer with `padding_side` not equal to `right` to the SFTTrainer. This might lead to some unexpected behaviour due to overflow issues when training a model in half-precision. You might consider adding `tokenizer.padding_side = 'right'` to your code.
+  warnings.warn(
+/home/ostrich/anaconda3/envs/my_master/lib/python3.9/site-packages/trl/trainer/sft_trainer.py:345: UserWarning: You passed `packing=True` to the SFTTrainer, and you are training your model with `max_steps` strategy. The dataset will be iterated until the `max_steps` are reached.

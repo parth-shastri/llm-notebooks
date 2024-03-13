@@ -1,0 +1,201 @@
+{
+    "os": "Linux-6.6.7-arch1-1-x86_64-with-glibc2.38",
+    "python": "3.9.18",
+    "heartbeatAt": "2024-03-08T06:48:43.352426",
+    "startedAt": "2024-03-08T06:48:41.898669",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "host": "ostrich",
+    "username": "ostrich",
+    "executable": "/home/ostrich/anaconda3/envs/my_master/bin/python",
+    "cpu_count": 24,
+    "cpu_count_logical": 32,
+    "cpu_freq": {
+        "current": 2.4343124999999994,
+        "min": 800.0,
+        "max": 5087.5
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 5.703,
+            "min": 800.0,
+            "max": 5700.0
+        },
+        {
+            "current": 5.7,
+            "min": 800.0,
+            "max": 5700.0
+        },
+        {
+            "current": 5.7,
+            "min": 800.0,
+            "max": 5700.0
+        },
+        {
+            "current": 0.8,
+            "min": 800.0,
+            "max": 5700.0
+        },
+        {
+            "current": 5.7,
+            "min": 800.0,
+            "max": 5700.0
+        },
+        {
+            "current": 0.8,
+            "min": 800.0,
+            "max": 5700.0
+        },
+        {
+            "current": 0.8,
+            "min": 800.0,
+            "max": 5700.0
+        },
+        {
+            "current": 0.8,
+            "min": 800.0,
+            "max": 5700.0
+        },
+        {
+            "current": 0.8,
+            "min": 800.0,
+            "max": 6000.0
+        },
+        {
+            "current": 0.8,
+            "min": 800.0,
+            "max": 6000.0
+        },
+        {
+            "current": 5.7,
+            "min": 800.0,
+            "max": 6000.0
+        },
+        {
+            "current": 0.8,
+            "min": 800.0,
+            "max": 6000.0
+        },
+        {
+            "current": 5.7,
+            "min": 800.0,
+            "max": 5700.0
+        },
+        {
+            "current": 0.8,
+            "min": 800.0,
+            "max": 5700.0
+        },
+        {
+            "current": 5.698,
+            "min": 800.0,
+            "max": 5700.0
+        },
+        {
+            "current": 0.8,
+            "min": 800.0,
+            "max": 5700.0
+        },
+        {
+            "current": 4.399,
+            "min": 800.0,
+            "max": 4400.0
+        },
+        {
+            "current": 0.8,
+            "min": 800.0,
+            "max": 4400.0
+        },
+        {
+            "current": 4.4,
+            "min": 800.0,
+            "max": 4400.0
+        },
+        {
+            "current": 0.8,
+            "min": 800.0,
+            "max": 4400.0
+        },
+        {
+            "current": 0.8,
+            "min": 800.0,
+            "max": 4400.0
+        },
+        {
+            "current": 4.399,
+            "min": 800.0,
+            "max": 4400.0
+        },
+        {
+            "current": 0.8,
+            "min": 800.0,
+            "max": 4400.0
+        },
+        {
+            "current": 0.8,
+            "min": 800.0,
+            "max": 4400.0
+        },
+        {
+            "current": 0.8,
+            "min": 800.0,
+            "max": 4400.0
+        },
+        {
+            "current": 0.8,
+            "min": 800.0,
+            "max": 4400.0
+        },
+        {
+            "current": 0.8,
+            "min": 800.0,
+            "max": 4400.0
+        },
+        {
+            "current": 4.399,
+            "min": 800.0,
+            "max": 4400.0
+        },
+        {
+            "current": 0.8,
+            "min": 800.0,
+            "max": 4400.0
+        },
+        {
+            "current": 0.8,
+            "min": 800.0,
+            "max": 4400.0
+        },
+        {
+            "current": 0.8,
+            "min": 800.0,
+            "max": 4400.0
+        },
+        {
+            "current": 4.4,
+            "min": 800.0,
+            "max": 4400.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 936.8536720275879,
+            "used": 366.4457130432129
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4080",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4080",
+            "memory_total": 17171480576
+        }
+    ],
+    "memory": {
+        "total": 125.56845092773438
+    }
+}

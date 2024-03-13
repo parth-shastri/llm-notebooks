@@ -1,0 +1,22 @@
+1. Understanding the tokenizer config
+2. Training without adding the additional chatml tokens
+3. Training after expanding the model vocab by adding the chatml tokens
+    3a. Training Embeddings in LoRA i.e. new embeddings are added in LoRA.
+    3b. ReTraining the Embeddings of the models (Will increase the trainalble parameters.)
+
+4. Clear out the padding side / Padding token, eos token, unk token knowledge gaps.
+    - While training the Foundational Language models padding is not usually used.
+    - A large corpus is broken down into segments of fixed length 
+    - because the corpus is large ~ 1-8 T tokens this doesnt affect the model that much.
+    - A lot depends on the datacollator function that you use
+    - Decoder only models generally use padding side as left, as they are trained to predict the next token,
+        using padding side as 'right' might cause discontinuities due to the pad token.
+    - Since LLMs are not trained to continue from pad tokens, your input needs to be left-padded. ref [https://huggingface.co/docs/transformers/llm_tutorial#wrong-padding-side]
+    
+    - I think the out-of-the-box HF tokenizers api is optimized to perform direct inference (So we need to make some changes before we can directly use it for training, esp from scratch.)
+
+    - Karpathy's implementation of NanoGPT clarified some doubts about the use of EOS token. He uses it as a delimiter for documents i.e. variable length complete documents (A single row of the wikitext dataset is a document)
+    
+    - An interesting note: the use of padding_side='left' when using no_packing (of course it doesnt matter with packing=True) causes overflow in mixed_precision training. No clear reason.
+    - When using padding='right' and pad_token=eos_token, the model doesnt learn to predict eos and goes on forever. (Yes! even while doing SFT training.)
+    - Adding the EOS token specifically and adding a special "[PAD]" token helps in training using padding_side='left'.
