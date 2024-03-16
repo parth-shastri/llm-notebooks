@@ -1,0 +1,207 @@
+{
+    "os": "Linux-6.6.7-arch1-1-x86_64-with-glibc2.38",
+    "python": "3.9.18",
+    "heartbeatAt": "2024-03-16T11:17:49.791729",
+    "startedAt": "2024-03-16T11:17:48.910201",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "phi2-dpo-direct-run2",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/parth-shastri/llm-notebooks.git",
+        "commit": "95158e63a63e223d992fd0d00dcd5d2e75357051"
+    },
+    "email": "shastriparth28@gmail.com",
+    "root": "/mnt/fast_storage/Parth/my_projects/llm-notebooks",
+    "host": "ostrich",
+    "username": "ostrich",
+    "executable": "/home/ostrich/anaconda3/envs/my_master/bin/python",
+    "cpu_count": 24,
+    "cpu_count_logical": 32,
+    "cpu_freq": {
+        "current": 3.12009375,
+        "min": 800.0,
+        "max": 5087.5
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 5.7,
+            "min": 800.0,
+            "max": 5700.0
+        },
+        {
+            "current": 0.8,
+            "min": 800.0,
+            "max": 5700.0
+        },
+        {
+            "current": 5.7,
+            "min": 800.0,
+            "max": 5700.0
+        },
+        {
+            "current": 0.8,
+            "min": 800.0,
+            "max": 5700.0
+        },
+        {
+            "current": 5.7,
+            "min": 800.0,
+            "max": 5700.0
+        },
+        {
+            "current": 0.8,
+            "min": 800.0,
+            "max": 5700.0
+        },
+        {
+            "current": 5.7,
+            "min": 800.0,
+            "max": 5700.0
+        },
+        {
+            "current": 5.7,
+            "min": 800.0,
+            "max": 5700.0
+        },
+        {
+            "current": 5.7,
+            "min": 800.0,
+            "max": 6000.0
+        },
+        {
+            "current": 0.8,
+            "min": 800.0,
+            "max": 6000.0
+        },
+        {
+            "current": 5.7,
+            "min": 800.0,
+            "max": 6000.0
+        },
+        {
+            "current": 0.8,
+            "min": 800.0,
+            "max": 6000.0
+        },
+        {
+            "current": 5.674,
+            "min": 800.0,
+            "max": 5700.0
+        },
+        {
+            "current": 0.8,
+            "min": 800.0,
+            "max": 5700.0
+        },
+        {
+            "current": 5.7,
+            "min": 800.0,
+            "max": 5700.0
+        },
+        {
+            "current": 5.7,
+            "min": 800.0,
+            "max": 5700.0
+        },
+        {
+            "current": 4.365,
+            "min": 800.0,
+            "max": 4400.0
+        },
+        {
+            "current": 4.4,
+            "min": 800.0,
+            "max": 4400.0
+        },
+        {
+            "current": 4.4,
+            "min": 800.0,
+            "max": 4400.0
+        },
+        {
+            "current": 4.4,
+            "min": 800.0,
+            "max": 4400.0
+        },
+        {
+            "current": 0.8,
+            "min": 800.0,
+            "max": 4400.0
+        },
+        {
+            "current": 4.4,
+            "min": 800.0,
+            "max": 4400.0
+        },
+        {
+            "current": 0.8,
+            "min": 800.0,
+            "max": 4400.0
+        },
+        {
+            "current": 0.8,
+            "min": 800.0,
+            "max": 4400.0
+        },
+        {
+            "current": 0.8,
+            "min": 800.0,
+            "max": 4400.0
+        },
+        {
+            "current": 0.8,
+            "min": 800.0,
+            "max": 4400.0
+        },
+        {
+            "current": 0.8,
+            "min": 800.0,
+            "max": 4400.0
+        },
+        {
+            "current": 4.399,
+            "min": 800.0,
+            "max": 4400.0
+        },
+        {
+            "current": 4.399,
+            "min": 800.0,
+            "max": 4400.0
+        },
+        {
+            "current": 0.8,
+            "min": 800.0,
+            "max": 4400.0
+        },
+        {
+            "current": 0.8,
+            "min": 800.0,
+            "max": 4400.0
+        },
+        {
+            "current": 0.8,
+            "min": 800.0,
+            "max": 4400.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 936.8536720275879,
+            "used": 380.6597099304199
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4080",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4080",
+            "memory_total": 17171480576
+        }
+    ],
+    "memory": {
+        "total": 125.56845092773438
+    }
+}

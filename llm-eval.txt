@@ -1,0 +1,28 @@
+
+*** Finetuned phi2-sf-alpaca_loraemb_right_pad_token ***
++==============================================================+
+|    Tasks    |Version|Filter|n-shot| Metric |Value |   |Stderr|
+|-------------|------:|------|------|--------|-----:|---|-----:|
+|winogrande   |      1|none  |None  |acc     |0.7506|±  |0.0122|
+|piqa         |      1|none  |None  |acc     |0.7644|±  |0.0099|
+|             |       |none  |None  |acc_norm|0.7671|±  |0.0099|
+|hellaswag    |      1|none  |None  |acc     |0.5327|±  |0.0050|
+|             |       |none  |None  |acc_norm|0.7105|±  |0.0045|
+|arc_easy     |      1|none  |None  |acc     |0.7727|±  |0.0086|
+|             |       |none  |None  |acc_norm|0.7399|±  |0.0090|
+|arc_challenge|      1|none  |None  |acc     |0.4957|±  |0.0146|
+|             |       |none  |None  |acc_norm|0.5299|±  |0.0146|
++==============================================================+
+
+*** Finetuned phi-2-sft-aplaca_loraemb ***
++==============================================================+
+|    Tasks    |Version|Filter|n-shot| Metric |Value |   |Stderr|
+|-------------|------:|------|------|--------|-----:|---|-----:|
+|winogrande   |      1|none  |None  |acc     |0.7751|±  |0.0117|
+|piqa         |      1|none  |None  |acc     |0.7927|±  |0.0095|
+|             |       |none  |None  |acc_norm|0.8014|±  |0.0093|
+|arc_easy     |      1|none  |None  |acc     |0.8178|±  |0.0079|
+|             |       |none  |None  |acc_norm|0.7782|±  |0.0085|
+|arc_challenge|      1|none  |None  |acc     |0.5239|±  |0.0146|
+|             |       |none  |None  |acc_norm|0.5418|±  |0.0146|
++==============================================================+
