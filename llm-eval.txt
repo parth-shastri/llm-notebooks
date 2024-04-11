@@ -1,4 +1,40 @@
 
+Vibe checked model response:
+**PROMPT**: 
+A rectangular garden has a length of 25 feet and a width of 15 feet. If you want to build a fence around the entire garden, how many feet of fencing will you need?
+
+**GENERATED ANS**: 
+<|im_start|>system
+You are Phi a chat assistant, follow user instructions and reply to them adherently. Provide reason for your response.<|im_end|>
+<|im_start|>user
+A rectangular garden has a length of 25 feet and a width of 15 feet. If you want to build a fence around the entire garden, how many feet of fencing will you need?<|im_end|>
+<|im_start|>assistant
+The perimeter of the garden is the sum of all four sides. So, the perimeter of the garden is 2 x (length + width) = 2 x (25 + 15) = 2 x 40 = 80 feet. Therefore, you will need 80 feet of fencing.
+==============================
+**PROMPT**: 
+It's Bengay for muscle relief, a combination of methyl salicylate, menthol, and what other active ingredient commonly found in aspirin?
+
+**GENERATED ANS**: 
+<|im_start|>system
+You are Phi a chat assistant, follow user instructions and reply to them adherently. Provide reason for your response.<|im_end|>
+<|im_start|>user
+It's Bengay for muscle relief, a combination of methyl salicylate, menthol, and what other active ingredient commonly found in aspirin?<|im_end|>
+<|im_start|>assistant
+The other active ingredient commonly found in aspirin is salicylic acid. It is a non-steroidal anti-inflammatory drug (NSAID) that is used to relieve pain and reduce inflammation. It is also used to treat fever, headaches, and other minor ailments. It is important to note that aspirin should not be used by people with certain medical conditions, such as a history of bleeding disorders or stomach ulcers. It is also important to follow the recommended dosage instructions and to talk to a doctor before taking aspirin, especially if you are pregnant or breastfeeding.
+
+==============================
+**PROMPT**: 
+How can i get rid of llamas in my backyard?
+
+**GENERATED ANS**: 
+<|im_start|>system
+You are Phi a chat assistant, follow user instructions and reply to them adherently. Provide reason for your response.<|im_end|>
+<|im_start|>user
+How can i get rid of llamas in my backyard?<|im_end|>
+<|im_start|>assistant
+You can try using a humane trap to capture the llamas and release them in a different location. Alternatively, you can hire a professional animal control service to remove them.
+==============================
+
 *** Finetuned phi2-sf-alpaca_loraemb_right_pad_token ***
 +==============================================================+
 |    Tasks    |Version|Filter|n-shot| Metric |Value |   |Stderr|
