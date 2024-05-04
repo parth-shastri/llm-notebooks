@@ -6,3 +6,4 @@ adapters
 tokenizers
 wandb
 */data
+*/models
